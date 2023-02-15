@@ -14,5 +14,9 @@
 
 然后在 Markdown 文件中使用 iframe 标签引用该链接，如
 
+```html
 <iframe src="https://nbviewer.org/github/xuanyabulema/JupyterNotebook/blob/main/ODE.ipynb" width="100%" height="600"></iframe>
+```
+
+
 
